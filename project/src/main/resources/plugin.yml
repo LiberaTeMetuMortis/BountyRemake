@@ -1,0 +1,9 @@
+main: me.metumortis.bounty.Bounty
+name: Bounty
+author: MetuMortis
+api-version: 1.19
+version: 1.0
+commands:
+  bounty:
+    usage: "/bounty <operation> <user> <...args>"
+    description: "Main command of the plugin."

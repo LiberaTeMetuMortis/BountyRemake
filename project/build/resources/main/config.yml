@@ -1,0 +1,10 @@
+messages:
+  invalidType: "Type must be HEART or MONEY."
+  notEnoughHearts: "You don't have enough hearts."
+  notEnoughMoney: "You don't have enough money."
+  putBounty: "You put a {amount} of {type} on {player}'s head."
+  removedBounty: "You removed {player}'s bounty."
+  noBounty: "You didn't set any bounty on this player"
+  NaN: "Amount must be a number."
+usages:
+  add: "/bounty add <playerName> <type> <amount>"
